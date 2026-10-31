@@ -69,3 +69,4 @@ The repository includes `render.yaml` and `Procfile` for automated cloud deploym
 2. Choose the **Streamlit** SDK.
 3. Push or sync this repository to your Space.
 4. Hugging Face Spaces will automatically build and serve the application.
+

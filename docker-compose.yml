@@ -10,3 +10,4 @@ services:
     volumes:
       - ./documents:/app/documents
     restart: unless-stopped
+
